@@ -1,7 +1,30 @@
 const apiKey = process.env.NEWS_API_KEY;
-const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`
+//const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`
+let currentPage = 1;
+const pageSize = 6;
 
-async function fetchNews() {
+const searchInput = document.querySelector('#search-input');
+const searchButton = document.querySelector('#search-button');
+const categorySelect = document.querySelector('#category-select');
+
+searchButton.addEventListener('click', () => {
+    const searchTerm = searchInput.value;
+    const selectedCategory = categorySelect.value;
+    
+    let params = `page=${currentPage}&pageSize=${pageSize}`;
+    
+    if (searchTerm) {
+      params += `&q=${searchTerm}`;
+    }
+    
+    if (selectedCategory) {
+      params += `&category=${selectedCategory}`;
+    }
+    
+    fetchNewsWithParams(params);
+});
+
+async function fetchNews(url) {
     try {
       const response = await fetch(url);
       const data = await response.json();
@@ -11,9 +34,15 @@ async function fetchNews() {
       console.error('There was an error!', error);
     }
   }
-  
+
+async function fetchNewsWithParams(params) {
+    const paramsUrl = `https://newsapi.org/v2/top-headlines?country=us&${params}&apiKey=${apiKey}`;
+    await fetchNews(paramsUrl);
+}
+
 function displayNews(articles) {
     const newsDiv = document.querySelector('#news');
+    newsDiv.innerHTML = '';
   
     for (const article of articles) {
         const articleDiv = document.createElement('div');
@@ -53,5 +82,21 @@ function displayNews(articles) {
         newsDiv.appendChild(articleDiv);
     }
 }
-  
-fetchNews();
+
+const prevButton = document.querySelector('#prev-button');
+const nextButton = document.querySelector('#next-button');
+
+prevButton.addEventListener('click', () => {
+    if (currentPage > 1) {
+        currentPage--;
+        fetchNewsWithParams(`page=${currentPage}&pageSize=${pageSize}`);
+    }
+});
+
+nextButton.addEventListener('click', () => {
+    currentPage++;
+    fetchNewsWithParams(`page=${currentPage}&pageSize=${pageSize}`);
+});
+ 
+//fetchNews();
+fetchNewsWithParams(`page=${currentPage}&pageSize=${pageSize}`);

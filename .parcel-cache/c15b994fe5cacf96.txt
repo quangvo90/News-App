@@ -29,7 +29,7 @@
 71D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\.gitignore133373345071048426 0
 82D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\svgo\lib133373032536781555 1
 112D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133373032477015635 0
-65D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist133373899723246385 1
+65D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist133373935372012842 1
 134D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133373032437958565 0
 118D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\hash\parcel-hash.win32-x64-msvc.node133373032521655864 0
 82D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\entities133373032477085698 1
@@ -39,7 +39,7 @@
 147D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\mix.js133373032538223572 0
 91D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\lib\usage.js133373032539453728 0
 119D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\node_modules\css-tree\lib\lexer\trace.js133373032578479399 0
-71D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\index.html133373898233818920 0
+71D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\index.html133373935367166744 0
 124D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs133373032510512445 0
 122D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@babel\highlight\node_modules\has-flag\readme.md133373032444074586 0
 115D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\node_modules\css-tree\lib\version.js133373032579639434 0
@@ -63,7 +63,7 @@
 150D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133373032551566647 0
 98D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\source-map\source-map.js133373032444342280 0
 90D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\json5\lib\cli.js133373032433698074 0
-71D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\scripts.js133373899708836894 0
+71D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\scripts.js133373928492669781 0
 100D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\cjs\replace\Value.cjs133373032510552415 0
 87D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\dotenv-expand133373032450287148 1
 94D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\electron-to-chromium133373032469368332 1
@@ -191,7 +191,7 @@
 135D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\node_modules\css-tree\lib\syntax\node\DeclarationList.js133373032562317941 0
 116D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\core\lib\serializerCore.browser.js133373032557862793 0
 102D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\ordered-binary\tests\test.js133373032454155213 0
-76D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.html133373898240740187 0
+76D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.html133373935371292825 0
 125D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\node_modules\mdn-data\css\syntaxes.schema.json133373032484103037 0
 79D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\chalk133373032454365200 1
 115D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@swc\helpers\lib\_class_name_tdz_error.js133373032551094563 0
@@ -1483,7 +1483,7 @@
 114D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\node_modules\mdn-data\l10n\index.js133373032450977193 0
 87D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\lmdb\index.js133373032551044605 0
 131D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\cjs\restructure\prepare\createDeclarationIndexer.cjs133373032475630218 0
-87D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.b2335e0c.js.map133373899722436465 0
+87D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.b2335e0c.js.map133373935371952847 0
 110D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\core\test\fixtures\glob-like133373032475260270 1
 102D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\nth-check\lib\parse.d.ts.map133373032473183685 0
 97D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\semver\functions\neq.js133373032487229129 0
@@ -1720,7 +1720,7 @@
 114D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\csso\node_modules\mdn-data\l10n\css.json133373032462628714 0
 99D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\ordered-binary\index.d.ts133373032467678706 0
 124D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133373032541659002 0
-83D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.b2335e0c.js133373899722376376 0
+83D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.b2335e0c.js133373935371442726 0
 98D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\nth-check\lib\parse.d.ts133373032485250726 0
 114D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133373032549692414 0
 108D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\css-select\node_modules\domhandler133373032464988700 1
@@ -4121,7 +4121,7 @@
 123D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\caniuse-lite\data\features\css-read-only-write.js133373032575976407 0
 122D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@swc\helpers\_\_object_spread_props\package.json133373032586866694 0
 121D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133373032576066474 0
-88D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.1303bb05.css.map133373899722316418 0
+88D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.1303bb05.css.map133373935371962809 0
 108D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\abortcontroller-polyfill\README.md133373032468168684 0
 119D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\caniuse-lite\data\features\css-reflections.js133373032576186497 0
 123D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\caniuse-lite\data\features\css-relative-colors.js133373032576426467 0
@@ -5045,7 +5045,7 @@
 130D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133373032441832807 0
 130D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133373032437338621 0
 100D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\runtime-js\LICENSE133373032438868488 0
-84D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.1303bb05.css133373899722266381 0
+84D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\dist\index.1303bb05.css133373935371892790 0
 105D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\runtime-js\package.json133373032511065308 0
 96D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\runtime-js\src133373032490099363 1
 104D:\NuCamp\WebDev\1-HTML-CSS-JS\JS\JavaScript Course\news-app\node_modules\@parcel\runtime-js\src\helpers133373032510362385 1
